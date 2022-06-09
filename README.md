@@ -1,4 +1,4 @@
-# A Repository for .Net Core and .Net Core Microservices References
+# A Repository for .NET Core and .NET Core Microservices References
 
 
 ### YouTube
